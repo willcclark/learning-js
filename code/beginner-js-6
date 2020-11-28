@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // From: <https://www.youtube.com/watch?v=nQu2bbh4Vyc>
 // Example #1
 console.log('Example 1:');
