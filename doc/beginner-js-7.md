@@ -8,7 +8,7 @@ What are code comments?
     + Most editors will change the color of the line to grey
     + only applies to the current line - Any subsequent lines will not be commeneted out.
     + For example:
-```
+```javascript
 // console.log(I am commented out");
 console.log("But I'm not!")
 ```
