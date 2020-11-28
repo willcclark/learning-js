@@ -1,5 +1,7 @@
 # [Declaring variable: 9 of 51](https://youtu.be/JNIXfGiDWM8?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
+[![Declaring variables [9 of 51] | Beginner's Series to JavaScript](http://img.youtube.com/vi/JNIXfGiDWM8/0.jpg)](http://www.youtube.com/watch?v=JNIXfGiDWM8 "Declaring variables [9 of 51] | Beginner's Series to JavaScript")
+
 * Three ways to declare variables in JavaScript:
     + _var_
     + _let_
