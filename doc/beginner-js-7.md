@@ -1,4 +1,6 @@
-# [Comments: 7 of 51](https://youtu.be/Wm89TVXGflk?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+# [Comments [7 of 51] | Beginner's Series to JavaScript](https://youtu.be/Wm89TVXGflk?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+
+[![Comments [7 of 51] | Beginner's Series to JavaScript](http://img.youtube.com/vi/Wm89TVXGflk/0.jpg)](http://www.youtube.com/watch?v=Wm89TVXGflk "Comments [7 of 51] | Beginner's Series to JavaScript")
 
 What are code comments?
 * Comments are lines in your code that you can see, but that do not get executed
@@ -8,10 +10,10 @@ What are code comments?
     + Most editors will change the color of the line to grey
     + only applies to the current line - Any subsequent lines will not be commeneted out.
     + For example:
-```javascript
-// console.log(I am commented out");
-console.log("But I'm not!")
-```
+    ```javascript
+    // console.log(I am commented out");
+    console.log("But I'm not!")
+    ```
 * Multi-line comments
     + Designed to comment out multiple lines
         - Does not require comment slashes on every line add a "/*" to the start of the comment and a */ to the end of it

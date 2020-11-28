@@ -1,4 +1,6 @@
-# [Building your toolbox: 4 of 51](https://youtu.be/69WJeXGBdxg?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+# [Building your toolbox [4 of 51] | Beginner's Series to JavaScript](https://youtu.be/69WJeXGBdxg?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+
+[![Building your toolbox [4 of 51] | Beginner's Series to JavaScript](http://img.youtube.com/vi/69WJeXGBdxg/0.jpg)](http://www.youtube.com/watch?v=69WJeXGBdxg "Building your toolbox [4 of 51] | Beginner's Series to JavaScript")
 
 Visual Studio Code
 * Write, debug, and document your code
