@@ -37,4 +37,4 @@
         - still very useful
         - use inside of a block scope when it is desirable to create a new variable every time the loop happens.
     + _var_
-        - partially obselete, as _let_ and _const_ basically cover all of its use cases, and _let_ and _const_ remove some of the issues with using a _var_ type variable declaration.
+        - partially obselete, as _let_ and _const_ basically cover all of its use cases, and _let_ and _const_ remove some of the issues with using a _var_ type variable declaration
