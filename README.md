@@ -43,4 +43,4 @@ As I work through this series, I am documenting my progress. With the exception 
 
 * [Working with strings [11 of 51] | Beginner's Series to JavaScript](https://youtu.be/dP1Er2BfVmo?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
     + [Video](https://youtu.be/dP1Er2BfVmo?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
-    + [Notes](doc/beginner-js-11.)
+    + [Notes](doc/beginner-js-11.md)
