@@ -7,6 +7,7 @@ I am learning JavaScript through [Microsoft's Beginner's Series to: JavaScript.]
 As I work through this series, I am documenting my progress. With the exception of the first few videos, which were introductions to the course, generally the videos alternate beteen explanations of a new concepts and code demonstrations of the new concepts. I took notes on the explanations, and I did the code demonstrations as well.
 
 
+<<<<<<< HEAD
 - [Beginning the Beginner's series [1 of 51] | Beginner's Series to JavaScript](https://youtu.be/_EDM5aPVLmo)
 - [What Is JavaScript [2 of 51] | Beginner's Series to JavaScript](https://youtu.be/Q_CRM2lXXBg?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 - [Running JavaScript: browser or server [3 of 51] | Beginner's Series to JavaScript](https://youtu.be/tGOxIKstXiA?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
