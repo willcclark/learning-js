@@ -32,4 +32,4 @@ As I work through this series, I am documenting my progress. With the exception 
   - [My code](bin/beginner-js-10.js)
 - [Working with strings [11 of 51] | Beginner's Series to JavaScript](https://youtu.be/dP1Er2BfVmo?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
   - [Video](https://youtu.be/dP1Er2BfVmo?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
-  - [My notes](doc/beginner-js-11.)
+  - [My notes](doc/beginner-js-11.md)
